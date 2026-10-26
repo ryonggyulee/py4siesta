@@ -51,7 +51,7 @@ The bundled Python package is named `nanocore`: use `import nanocore`
 Clone and enter the repository:
 
 ```bash
-git clone https://github.com/YHKlab-RGLee/py4siesta.git
+git clone https://github.com/ronggyulee/py4siesta.git
 cd py4siesta
 ```
 
